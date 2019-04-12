@@ -1,27 +1,11 @@
-Android Demo
-=============
+# MACE Demo
 
-How to build
----------------
+小米mace 深度学习框架 已经编译成功的android demo
 
-```sh
-cd mace/examples/android
-./build.sh dynamic
-# if libmace.a is needed, update `macelibrary/CMakeLists.txt` and run with `./build.sh static`.
-```
+## 官方链接
 
-Install
----------------
+* [mace官方github](https://github.com/xiaomi/mace)
 
-```sh
-# running after build step and in `mace/exampls/android` directory
-adb install ./app/build/outputs/apk/app/release/app-app-release.apk
-```
+* [mace安装指南](https://mace.readthedocs.io/en/latest/installation/env_requirement.html)
 
-Pre-built APK
---------------
-Pre-built Android APK can be downloaded [here](https://cnbj1.fds.api.xiaomi.com/mace/demo/mace_android_demo.apk).
-
-Note
---------------
-We use two big cores for CPU inference.
+* [mace android demo](https://github.com/XiaoMi/mace/tree/master/mace/examples/android)
