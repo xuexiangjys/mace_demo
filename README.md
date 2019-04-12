@@ -13,3 +13,9 @@
 * [mace安装指南](https://mace.readthedocs.io/en/latest/installation/env_requirement.html)
 
 * [mace官方android demo](https://github.com/XiaoMi/mace/tree/master/mace/examples/android)
+
+## 参考链接
+
+* [在Android手机上使用MACE实现图像分类](https://blog.csdn.net/qq_33200967/article/details/81901068)
+
+* [基于现有 TensorFlow 模型构建 Android 应用](https://www.jianshu.com/p/9db330540a9f)
